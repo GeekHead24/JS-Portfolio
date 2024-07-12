@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Food Munch on AWS",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Aspiring web developer with proficiency in HTML, CSS, JavaScript, and React. Completed multiple personal projects, showcasing skills in creating responsive and user-friendly websites. Eager to contribute to a dynamic team in an internship role, applying technical expertise to real-world projects, and learning from experienced professionals. Strong problem-solving abilities and a passion for innovative web development solutions. Seeking to gain hands-on experience and further develop professional skills.",
+    url: "https://d33c1kaio6u0xj.cloudfront.net",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Chatbot",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed and deployed a conversational AI chatbot, leveraging natural language processing (NLP) to enhance user engagement and streamline customer support. Utilized Python and machine learning frameworks to achieve high accuracy and responsiveness.",
+    url: "ptextbot.ccbp.tech",
   },
   {
-    title: "My Resume Site",
+    title: "Voicebot",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed and implemented a sophisticated voicebot using natural language processing and machine learning algorithms. Designed to enhance customer interactions by providing accurate, real-time responses. Led the project lifecycle from concept to deployment, ensuring high functionality, user satisfaction, and seamless integration with existing systems",
+    url: "pvoicebot.ccbp.tech",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Fireplace Theatre Using FrameVR",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Successfully designed and implemented a virtual reality fireplace theatre using FrameVR. Led the project from concept to completion, integrating immersive 3D environments and interactive elements to enhance user experience. Delivered a high-quality, engaging VR experience on schedule.",
+    url: "https://framevr.io/class-frame-24",
   },
 ];
 
